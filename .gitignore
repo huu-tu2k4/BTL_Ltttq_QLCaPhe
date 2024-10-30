@@ -1,7 +1,9 @@
-bin
-.vs
-obj
-Properties
-App.config
-BTL_Ltttq_QLCaPhe.csproj
-.env
+
+.vs/
+
+
+bin/
+obj/
+
+*.csproj.user
+*.suo
